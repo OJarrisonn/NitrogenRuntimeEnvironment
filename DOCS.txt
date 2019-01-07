@@ -1,0 +1,34 @@
+You are allowed to read the source code, but you aren't allowed to edit and reupload any file, excect Main.n
+
+
+===============================================================================================
+                                           SYNTAX
+===============================================================================================
+
+Don't use spaces between args
+
+WRITE------------------------------------------------------------------------------------------
+
+Syntax: write:message1&message2&...
+You can write many messages using only one write command, to separate messages use '&' without quotation marks
+If you need write values from variables or arithmetic operations use '[varname]' or '[operation]' without quotation marks
+Ex:write:Hello World!&Coding in Nitrogen
+Ex:My name is [name]&My age is [10+10]
+
+VAR--------------------------------------------------------------------------------------------
+Syntax: var:name=value
+You can use operations and variables for values
+This is a without typing language
+
+OPERATIONS-------------------------------------------------------------------------------------
+Don't use spaces
+To make plus operations use 1+1
+To make subtraction operations use 1-1
+To make time operation use 1*1
+To make division operations 1/1
+
+You can operate many numbers like, 1+1+1
+
+
+
+To end the program use 'end' without quotation marks
